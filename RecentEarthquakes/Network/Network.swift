@@ -9,7 +9,6 @@ import Foundation
 
 class Network  {
     
-    static let cartId: Int = 2
     private let baseUrlString = "https://api.orhanaydogdu.com.tr/deprem/kandilli/"
     
     func request<T: Decodable>(endpointType: EndpointType, completion: @escaping (Result<T, CustomError>) -> Void) {
