@@ -3,7 +3,7 @@
 <div align="center">
 </div>  
   
-### **<div align="center">I'm Halil, iOS developer working since 2020 👨‍💻 🚀</div>**  
+### **<div align="center">I'm Halil, iOS developer working since 2022 👨‍💻 🚀</div>**  
   
 
 - 🔭 I’m currently working on [Github SonDepremler](https://github.com/halilelkan/SonDepremler) 
